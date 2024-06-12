@@ -1,0 +1,524 @@
+[
+{
+  "_id": {
+    "$oid": "65bcf9ddc37e8906e6a68b13"
+  },
+  "userName": "ahmed",
+  "email": "ahmed@gmail.com",
+  "password": "$2b$10$5tmysW.p41TrLzWLa4I4Beak1VfYQPU3Jo5RmJDMoa4/YpY2gNA32",
+  "image": "2dqpn.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "seasoned MERN stack developer who is passionate about sharing his expertise and guiding aspiring developers towards mastery in MongoDB, Express.js, React.js, and Node.js. With years of hands-on experience and a deep understanding of the intricacies of the MERN stack, Ahmed serves as a mentor, coach, and guide to those navigating the complex landscape of full-stack development.\n\nAhmed's mentoring approach is marked by a blend of patience, enthusiasm, and practical wisdom. He understands that mastering the MERN stack requires not only technical proficiency but also a holistic understanding of software development principles and best practices. Whether you're a beginner looking to grasp the fundamentals or an experienced developer aiming to refine your skills, Ahmed is committed to providing tailored guidance that meets your unique learning needs and goals.\n\nIn his mentoring sessions, Ahmed goes beyond just teaching syntax and frameworks; he emphasizes the importance of problem-solving, critical thinking, and effective communication in software development. Drawing from his own experiences and real-world projects, Ahmed provides practical insights and actionable advice that empower mentees to tackle challenges with confidence and creativity.\n\nWith Ahmed as your mentor, you can expect personalized guidance, constructive feedback, and unwavering support on your journey to mastering the MERN stack. Whether you're building your first web application or tackling advanced concepts in full-stack development, Ahmed is dedicated to helping you succeed and thrive in the dynamic world of modern web development.",
+  "services": "mentoring",
+  "specialization": "full stack mern",
+  "techStack": "nodejs",
+  "levelOfExperience": "1-3",
+  "professionalTitle": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b8139d61e26fb75e6&gs_lcrp=EgZjaHJvbWUqBggBEC4YQDIGCAAQRRg5MgYIARAuGEAyBggCEAAYQDIGCAMQLhhAMgYIBBAuGEAyBggFEC4YQDIGCAYQABhAMgYIBxAuGEAyBggIEEUYQdIBCDIzMzdqMGoxqAIAsAIA&FORM=ANSPA1&PC=U531",
+  "mentor": true
+},
+
+{
+  "_id": {
+    "$oid": "65d4aff6e843ecdac13f8ea4"
+  },
+  "userName": "ahmed",
+  "email": "ahmed123@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": "2dqpn.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "seasoned MERN stack developer who is passionate about sharing his expertise and guiding aspiring developers towards mastery in MongoDB, Express.js, React.js, and Node.js. With years of hands-on experience and a deep understanding of the intricacies of the MERN stack, Ahmed serves as a mentor, coach, and guide to those navigating the complex landscape of full-stack development.\n\nAhmed's mentoring approach is marked by a blend of patience, enthusiasm, and practical wisdom. He understands that mastering the MERN stack requires not only technical proficiency but also a holistic understanding of software development principles and best practices. Whether you're a beginner looking to grasp the fundamentals or an experienced developer aiming to refine your skills, Ahmed is committed to providing tailored guidance that meets your unique learning needs and goals.\n\nIn his mentoring sessions, Ahmed goes beyond just teaching syntax and frameworks; he emphasizes the importance of problem-solving, critical thinking, and effective communication in software development. Drawing from his own experiences and real-world projects, Ahmed provides practical insights and actionable advice that empower mentees to tackle challenges with confidence and creativity.\n\nWith Ahmed as your mentor, you can expect personalized guidance, constructive feedback, and unwavering support on your journey to mastering the MERN stack. Whether you're building your first web application or tackling advanced concepts in full-stack development, Ahmed is dedicated to helping you succeed and thrive in the dynamic world of modern web development.",
+  "services": "mentoring",
+  "specialization": "full stack mern",
+  "techStack": [
+    "nodejs",
+    "react",
+    "mongodb",
+    "ecpress"
+  ],
+  "levelOfExperience": "1-3",
+  "professionalTitle": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65d4b0693a440bce3c77acfe"
+  },
+  "userName": "ahmed",
+  "email": "ahmed12@gmail.com",
+  "password": "$2b$10$O0kCVdPVWTWBDx5S442UIOQXLFam9BM6tzntAjG7pdgmFjVtQFzX.",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": "mentoring",
+  "specialization": "full stack mern",
+  "techStack": [
+    "nodejs",
+    "react",
+    "mongodb",
+    "ecpress"
+  ],
+  "experience": "1-3",
+  "title": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dca9e02b7f0ba5101830d0"
+  },
+  "userName": "ahmed",
+  "email": "ahmed123@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": "mentoring",
+  "specialization": "full stack mern",
+  "techStack": [
+    "nodejs",
+    "react",
+    "mongodb",
+    "ecpress"
+  ],
+  "levelOfExperience": "1-3",
+  "professionalTitle": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dca9e02b7f0ba5101830d1"
+  },
+  "userName": "khalid",
+  "email": "khalid129633@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": "mentoring",
+  "specialization": "full stack mean",
+  "techStack": [
+    "nodejs",
+    "angular",
+    "mongodb",
+    "ecpress"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "senior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dcac0d2b7f0ba5101830d4"
+  },
+  "userName": "rrrrr",
+  "email": "rrrrrr@gmail.com",
+  "password": "$2b$10$O0kCVdPVWTWBDx5S442UIOQXLFam9BM6tzntAjG7pdgmFjVtQFzX.",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": [
+    "mentoring"
+  ],
+  "specialization": "full stack mern",
+  "techStack": [
+    "nodejs",
+    "react",
+    "mongodb",
+    "ecpress"
+  ],
+  "experience": "1-3",
+  "title": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dcac0d2b7f0ba5101830d5"
+  },
+  "userName": "mmmmmmm",
+  "email": "mmmmmmm@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": [
+    "mentoring"
+  ],
+  "specialization": "full stack mern",
+  "techStack": [
+    "nodejs",
+    "react",
+    "mongodb",
+    "ecpress"
+  ],
+  "levelOfExperience": "1-3",
+  "professionalTitle": "senior software ninja",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dcac0d2b7f0ba5101830d6"
+  },
+  "userName": "qqqqqq",
+  "email": "qqqqqqqq@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "king of pirates",
+  "services": [
+    "consultation"
+  ],
+  "specialization": "full stack mean",
+  "techStack": [
+    "nodejs",
+    "angular",
+    "mongodb",
+    "ecpress"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "senior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+
+{
+  "_id": {
+    "$oid": "65dcb258b0dd6ac307db72de"
+  },
+  "userName": "mahmoud Radwan",
+  "email": "mahmoudRadwan@gmail.com",
+  "password": "$2b$10$.RWbL1.TU9VCPcKs4orbbuc2NsUtBt5CCo/jm6VuOrzUKXXaJjmL2",
+  "student": true,
+  "specialization": "AI",
+  "imageUrl": "https://radwan.up.railway.app/uploads/e7owi.png",
+  "imageLink": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "baseName": "e7owi.png"
+},
+{
+  "_id": {
+    "$oid": "65dd99b0e731f3477cb5bcb3"
+  },
+  "userName": "Ahmed Mohsen",
+  "email": "Mohsen@gmail.com",
+  "password": "$2b$10$5tmysW.p41TrLzWLa4I4Beak1VfYQPU3Jo5RmJDMoa4/YpY2gNA32",
+  "image": "ph1.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": " Are you aspiring to become a proficient Full Stack developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack? Look no further! Our Full Stack MERN Mentorship program offers personalized guidance and support tailored to your learning needs.\n\nAs a Full Stack MERN Mentor, I provide comprehensive mentorship to individuals keen on mastering every facet of web development using the MERN stack. Here's what you can expect from our mentorship program:\n\n1. Customized Learning Path: No two learners are alike, which is why our mentorship program begins with a thorough assessment of your existing skills, knowledge, and learning goals. Based on this assessment, we develop a personalized learning path that aligns with your objectives and pace of learning.\n\n2. Hands-On Projects: Theory is important, but practical experience is essential for mastery. Throughout the mentorship, you'll work on real-world projects designed to reinforce your understanding of MERN stack concepts and develop your problem-solving skills.\n\n3. Regular Feedback and Code Reviews: Feedback is crucial for growth. I provide timely and constructive feedback on your code, guiding you towards best practices and helping you overcome challenges.\n\n4. One-on-One Support: Whether you're grappling with a complex coding problem or seeking career advice, I'm here to provide one-on-one support whenever you need it. Our mentorship sessions are interactive and tailored to address your specific queries and challenges.\n\n5. Career Guidance: Becoming a Full Stack developer is not just about mastering technical skills; it's also about navigating the job market and advancing your career. I offer insights into industry trends, resume review, interview preparation, and strategies for building a strong professional network.\n\n6. Continuous Learning: The tech industry evolves rapidly, and as a Full Stack developer, it's essential to stay updated with the latest tools and technologies. I'll help you cultivate a mindset of continuous learning, equipping you with the resources and strategies to keep pace with industry advancements.\n\nWhether you're a beginner taking your first steps into web development or an experienced developer looking to upskill, our Full Stack MERN Mentorship program is designed to empower you on your journey towards expertise and success in the world of MERN stack development. Let's embark on this journey together and unlock your full potential!",
+  "services": [
+    "mentoring"
+  ],
+  "specialization": "Full Stack MERN ",
+  "techStack": [
+    "MongoDB",
+    "Express.js",
+    "React.js",
+    "Node.js"
+  ],
+  "levelOfExperience": "1-3",
+  "professionalTitle": "junior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b8139d61e26fb75e6&gs_lcrp=EgZjaHJvbWUqBggBEC4YQDIGCAAQRRg5MgYIARAuGEAyBggCEAAYQDIGCAMQLhhAMgYIBBAuGEAyBggFEC4YQDIGCAYQABhAMgYIBxAuGEAyBggIEEUYQdIBCDIzMzdqMGoxqAIAsAIA&FORM=ANSPA1&PC=U531",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dd99b0e731f3477cb5bcb4"
+  },
+  "userName": "Mohamed Khalid",
+  "email": "mohamedKhalid@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": "ph2.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "put ex of discription",
+  "services": [
+    "mockInterview"
+  ],
+  "specialization": "Full Stack MEAN",
+  "techStack": [
+    "MongoDB",
+    "Express.js",
+    "AngularJS",
+    "Node.js"
+  ],
+  "levelOfExperience": "1-3",
+  "professionalTitle": "Mid Full Stack MEAN",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dd99b0e731f3477cb5bcb5"
+  },
+  "userName": "Lila Samy",
+  "email": "Lila@gmail.com",
+  "password": "$2b$10$O0kCVdPVWTWBDx5S442UIOQXLFam9BM6tzntAjG7pdgmFjVtQFzX.",
+  "image": "ph3.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "ex",
+  "services": [
+    "consultation"
+  ],
+  "specialization": "Full Stack PHP",
+  "techStack": [
+    "PHP",
+    "Laravel",
+    "SQL",
+    "React.js"
+  ],
+  "experience": "1-3",
+  "title": "junior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dd99b0e731f3477cb5bcb6"
+  },
+  "userName": "Ahmed Nagy",
+  "email": "AhmedNagy@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": "ph4.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "ex",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "Full Stack Django",
+  "techStack": [
+    "Python",
+    "React.js",
+    "SQL",
+    "Django"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "senior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65dd99b0e731f3477cb5bcb7"
+  },
+  "userName": "Mahmoud Radwan",
+  "email": "Radwan@gmail.com",
+  "password": "$2b$10$1P2rVXDUR9cafc7LbWf8jOpRJg6e5cCNtSlwtmI9tpOKFuacVU8Hy",
+  "image": "ph5.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "ex",
+  "services": [
+    "mentoring",
+    "consultation",
+    "mockInterview"
+  ],
+  "specialization": "Full Stack Java",
+  "techStack": [
+    "Java",
+    "AngularJS",
+    "PostgreSQL",
+    "Spring"
+  ],
+  "levelOfExperience": "3-6",
+  "professionalTitle": "senior software engineer",
+  "linkedin": "https://www.bing.com/search?pglt=43&q=linkedin&cvid=8b4bf594d5ab4d0b81…",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65e21c52d0f56c335cd52b28"
+  },
+  "userName": "Atef gaser",
+  "email": "AtefGaser@gmail.com",
+  "password": "$2b$10$gAELduG5kHM6KqD.Hlsz8uaeYHS.KrZxv14cAyvLwBSgyakA252a2",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65e83b27bcdeb8d29706d853"
+  },
+  "userName": "Atef gaser",
+  "email": "tttttt@gmail.com",
+  "password": "$2b$10$/xpS297MKM5yVc871MdtB.siZRHWll5dthnAs1M1.MjuoTjyD61o2",
+  "image": "rz1il.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "65e83e7b010c2bda15100743"
+  },
+  "userName": "Atef gaser",
+  "email": "ttt@gmail.com",
+  "password": "$2b$10$tA1JQfHw6cMBrKxj7eXxsuZ97m5tl8w/0MfhYi9F/dvfCeMbiHtSy",
+  "image": "re3nh.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+
+{
+  "_id": {
+    "$oid": "65f71cc2dc58207312e5d4d8"
+  },
+  "userName": "Sameh gaser",
+  "email": "SamehGaser@gmail.com",
+  "password": "$2b$10$RsduPUI741GvrDWO92.0fet6IpNMjPiNYWGLoZgxFi2LE5Z1FpOeu",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+
+{
+  "_id": {
+    "$oid": "6617a0d1f31293a95e8fc715"
+  },
+  "userName": "admin@mint-ops.com",
+  "email": "moabdelaziz3225@gmail.com",
+  "password": "$2b$10$sLJv7cE9uX2XxkcL1ivkU.2kzlNyE2kDNAk06ekwENmPTR5rfDim2",
+  "image": null,
+  "imageUrl": "https://radwan.up.railway.app/uploads/2dqpn.png",
+  "description": "test",
+  "services": [
+    "mentoring"
+  ],
+  "specialization": "AI Engineer",
+  "techStack": null,
+  "levelOfExperience": "3-5",
+  "professionalTitle": null,
+  "linkedin": "https://www.linkedin.com/in/mohamed-abdelaziz-1a7526242/",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "6623f2f301bbfdac25e2b5dc"
+  },
+  "userName": "Atef gaser",
+  "email": "samehGaber@gmail.com",
+  "password": "$2b$10$4PO6tgBAgUVY7K2vSAofi.0VqI5/Wv.djmpJcTcuuHJPdIUjaorAm",
+  "baseName": "vtk06.png",
+  "imageUrl": "https://radwan.up.railway.app/uploads/vtk06.png",
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+{
+  "_id": {
+    "$oid": "6623fb818f79b5ba00f4e672"
+  },
+  "userName": "Atef gaser",
+  "email": "test147852@gmail.com",
+  "password": "$2b$10$YXG6F0qA1IORLzBlxFatmOUO8c.H/SPYFouadqT.XCyzy6HGPSfEO",
+  "baseName": null,
+  "imageUrl": null,
+  "description": "put ex of discription",
+  "services": [
+    "mentoring",
+    "consultation"
+  ],
+  "specialization": "AI engineer",
+  "techStack": [
+    "Python",
+    "tenserFlow",
+    "Algorithms"
+  ],
+  "levelOfExperience": "2-5",
+  "professionalTitle": "Mid AI engineer",
+  "linkedin": "https://www.linkedin.com/",
+  "mentor": true
+},
+
+{
+  "_id": {
+    "$oid": "6634e0fc52e7546ecb50d675"
+  },
+  "userName": "ahmed",
+  "email": "ahmed1234@nagy.com",
+  "password": "$2b$10$LjZiWloZDTTYTP5sdn7wgOLBfPKOpJmL80xN28ykqgqSdQqha1Gdi",
+  "baseName": null,
+  "imageUrl": null,
+  "description": "test",
+  "services": [
+    "mentoring"
+  ],
+  "specialization": "Backend",
+  "techStack": null,
+  "levelOfExperience": "3-5",
+  "professionalTitle": null,
+  "linkedin": "https://www.linkedin.com/in/mohamed-abdelaziz-1a7526242/",
+  "mentor": true
+}
+
+]
